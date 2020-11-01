@@ -1,6 +1,6 @@
 # Rewsub
 
-Rewsub is a program for permanent movie-subtitle synchronization. 
+Rewsub is a program for permanent movie-subtitle synchronization. Tested on Ubuntu 20.04
 
 ## Prerequisites
 
@@ -31,7 +31,7 @@ pip3 install PyQt5
 
 1) Run rewsub.py
 2) Choose input file
-3) specify delay in miliseconds and press 'Rewind'
+3) Specify delay in miliseconds and press 'Rewind'
 
 New file will have same path and name as input with prefix '_'.
 
