@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 """  
     Purpose of this program is a movie-subtitle synchronization.
   
@@ -16,8 +18,6 @@
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 """
-
-#!/usr/bin/python3
 
 from ctypes import *
 from PyQt5.QtWidgets import *
