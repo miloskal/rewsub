@@ -2,7 +2,7 @@
 
 Rewsub is a program for permanent movie-subtitle synchronization. Tested on Ubuntu 20.04
 
-<img src="img1.png" width="300"></img>
+<img src="img1.png" width="300"></img> <img src="img2.png" width="300"></img> <img src="img3.png" width="300"></img>
 
 ## Prerequisites
 
